@@ -182,7 +182,7 @@ streamlit run app/app.py
 
 ##  Resume Highlight
 
-> Developed an AI-powered financial risk prediction system using machine learning and Streamlit, enabling real-time loan approval prediction with feature engineering, model evaluation, and business insights.
+Developed an AI-powered financial risk prediction system using machine learning and Streamlit, enabling real-time loan approval prediction with feature engineering, model evaluation, and business insights.
 
 ---
 
