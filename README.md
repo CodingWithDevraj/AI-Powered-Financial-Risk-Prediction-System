@@ -152,9 +152,21 @@ streamlit run app/app.py
 
 ---
 
-##  Live Demo
+##  Some Screenshots
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/4f5f37e7-e30d-4d8e-bd39-0ea80f68d054" />
 
-[https://ai-powered-financial-risk-prediction-system-bfh2sqmagtpe6pr6hx.streamlit.app/](https://ai-powered-financial-risk-prediction-system-bfh2sqmagtpe6pr6hx.streamlit.app/)
+* Approved Application
+  
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/82e0b40a-55bb-4b19-90a4-dff871260f08" />
+
+* Rejected Application
+
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/5e9eccc4-148d-4187-8028-c14f036fb465" />
+
+
+
+
+
 
 ---
 
